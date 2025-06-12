@@ -1,2 +1,3 @@
 # LeetCode-100
-力扣 JS PYTHON
+力扣 JS
+
