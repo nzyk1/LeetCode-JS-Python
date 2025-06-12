@@ -1,3 +1,3 @@
-# LeetCode-100
+### LeetCode
 力扣 JS
 
